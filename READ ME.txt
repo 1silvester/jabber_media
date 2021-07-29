@@ -1,0 +1,13 @@
+Server: 
+	Name: Silvester Stephens
+	StudentID: 1437955
+	Main Class: JabberServer.java in server folder (Server\src\main\java\com\bham\fsd\assignments\jabberserver)
+
+Client: 
+	Name: Munir Suleman
+	StudentID: 1348560
+	Main Class: Main.java in client folder (Client\src\com\bham\fsd\assignments\jabberserver)
+	
+Notes: 
+Server needs to be ran first
+Please be gentle (:

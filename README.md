@@ -3,7 +3,7 @@ social media platform
 
 This project involved building a social media platform using a client-server architecture.
 
-# Contibutors
+## Contibutors
 
 Silvester Stephens (https://github.com/1silvester)
 

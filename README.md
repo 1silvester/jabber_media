@@ -1,6 +1,10 @@
 # jabber_media
 social media platform
 
-This Project involved building a socail media platform using a client server architecture. 
+This project involved building a social media platform using a client-server architecture.
 
-##Contibutors 
+# Contibutors
+
+Silvester Stephens (https://github.com/1silvester)
+
+Munir Suleman (https://github.com/msuleman42)

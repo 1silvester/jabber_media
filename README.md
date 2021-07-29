@@ -1,5 +1,5 @@
 # jabber_media
-social media platform
+Social Media Platform
 
 This project involved building a social media platform using a client-server architecture.
 
